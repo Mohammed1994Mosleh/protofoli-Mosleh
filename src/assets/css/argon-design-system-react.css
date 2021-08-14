@@ -79,7 +79,7 @@ body {
   line-height: 1.5;
   color: #525f7f;
   text-align: left;
-  background-color: #fff; }
+  background-color: rgb(51, 46, 56); }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -92,6 +92,11 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem; }
+
+  h5{
+    color: #dee2e6;;
+  }
+
 
 p {
   margin-top: 0;
